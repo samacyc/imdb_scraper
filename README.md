@@ -27,4 +27,4 @@ $ scrapy crawl drama -o filename.json or filename.csv You have both options
 Data will be stored in the same directory . 
 
 
-Happy Srapping.
+Happy Sraping.
