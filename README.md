@@ -4,7 +4,7 @@ Scrapy project for scraping data from IMDB
 
 Clone the repo and navigate into imdb_scraper folder.
 
-$ git clone https://github.com/dojutsu-user/imdb_scraper.git
+$ git clone https://github.com/samacyc/imdb_scraper
 
 
 $ cd imdb_scraper/
